@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Spring 5 MVC Basic Minimum Template
 ===================================
 
@@ -28,7 +27,3 @@ Deploy & Run
 
 
 
-=======
-# spring5-mvc-template
-Minimum Config Spring 5 MVC Project
->>>>>>> 331998e0ed15186ade05c2b909741ee45ba3f180
