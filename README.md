@@ -15,7 +15,7 @@ Spring 5 MVC minimum configuration template:
 Dependencies (tested)
 ---------------------
 - JDK 1.8  
-- Maven 4.0.0
+- Maven 3.5.x
 - Tomcat 8.5
 
 
